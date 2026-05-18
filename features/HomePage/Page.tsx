@@ -52,7 +52,7 @@ const profile = {
 
 export const links = [
   {
-    title: "MGA Consulting Ltd",
+    title: "Beemeg Company Limited",
     description:
       "Governance, strategy, risk management, and organizational transformation.",
     image: clImg(
@@ -159,7 +159,7 @@ function SaveContactButton() {
     setIsOpening(true);
 
     const link = document.createElement("a");
-    link.href = "/MichaelAbbiw.vcf";
+    link.href = "/Micw.vcf";
     link.setAttribute("download", "MichaelAbbiw.vcf");
     document.body.appendChild(link);
     link.click();
