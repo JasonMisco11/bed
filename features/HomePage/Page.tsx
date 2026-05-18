@@ -159,8 +159,8 @@ function SaveContactButton() {
     setIsOpening(true);
 
     const link = document.createElement("a");
-    link.href = "/Micw.vcf";
-    link.setAttribute("download", "MichaelAbbiw.vcf");
+    link.href = "/BedoffBonsu.vcf";
+    link.setAttribute("download", "BedoffBonsu.vcf");
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
