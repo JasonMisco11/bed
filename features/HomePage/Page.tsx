@@ -54,7 +54,7 @@ export const links = [
   {
     title: "Beemeg Company Limited",
     description:
-      "Governance, strategy, risk management, and organizational transformation.",
+      "Car Clearance, Car Sales, Car import.",
     image: clImg(
       "https://res.cloudinary.com/dshe5kflb/image/upload/v1778694568/7da8de98-fa8f-40a6-8c61-8623209756f8_pgwkxa.png",
       "f_auto,q_auto,w_400",
