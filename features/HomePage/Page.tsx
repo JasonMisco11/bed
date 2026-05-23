@@ -33,6 +33,7 @@ const profile = {
     "Clearing Agent & Logistics Expert | Founder of JKA Logistics | Supply Chain Innovator",
   role: "Governance & Transformational Leadership Expert",
   location: "Accra, Ghana",
+  contact: "l",
   bio: "Bedoff Mensah Bonsu is a governance and transformational leadership expert with over 20 years of experience driving institutional excellence across Ghana's public and private sectors. He specializes in governance, strategy, risk management, and organizational transformation. He is the President of the Chartered Institute of Marketing, Ghana, and Chairman of its Governing Council, providing strategic leadership to advance professional standards and ethical practice. Bedoff also serves on several boards, including Built Financial Technologies Ltd., the e-Crime Bureau, and the Ghana Association of Savings and Loans Companies, and has previously served on the boards of Telecel Ghana and the Ghana Cylinder Manufacturing Company. A respected thought leader, trainer, and public speaker, Bedoff holds an MPhil in Entrepreneurship & Corporate Strategy and an MBA from KNUST, and is a Fellow of multiple professional institutions in leadership, governance, marketing, and education.",
   image: clImg(
     "https://res.cloudinary.com/dshe5kflb/image/upload/v1778761358/368A9454-scaled-e1757589945396-1462x2048_vur7qk_svc5j0.webp",
